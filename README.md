@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![alt]()
+### I am...
+[x] Software Engineer
+[X] AI Researcher
+
+### I am currently working on...
+- Automatisation of git commits in one-shot
+- My research about AI
+- Some forks of well-known projects ;)
+
+![alt]()
