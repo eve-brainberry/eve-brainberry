@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 <!--
 **eve-brainberry/eve-brainberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![alt]()
 ### I am...
-[x] Software Engineer
-[X] AI Researcher
+ - Software Engineer
+ - AI Researcher
 
 ### I am currently working on...
 - Automatisation of git commits in one-shot
