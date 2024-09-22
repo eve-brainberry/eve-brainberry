@@ -1,4 +1,4 @@
-## Hi there!
+## _Hi there!_
 
 <!--
 **eve-brainberry/eve-brainberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
