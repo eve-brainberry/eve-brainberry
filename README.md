@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt]()
+![alt2](https://giphy.com/embed/Rea7C7EBOPZYk3QZAC)
 ### I am...
  - Software Engineer
  - AI Researcher
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - My research about AI
 - Some forks of well-known projects ;)
 
-![alt]()
+![alt](https://giphy.com/embed/sZPQXNBBN7mbDALod9)
